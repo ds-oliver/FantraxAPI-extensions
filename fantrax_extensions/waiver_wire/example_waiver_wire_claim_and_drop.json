@@ -1,0 +1,127 @@
+{
+    "data": {
+        "sDate": 1755577341727,
+        "adrt": 45,
+        "up": "168.2.3"
+    },
+    "roles": [
+        "02"
+    ],
+    "responses": [
+        {
+            "data": {
+                "paginatedResultSet": {
+                    "totalNumPages": 1,
+                    "pageNumber": 1,
+                    "maxResultsPerPage": 20,
+                    "totalNumResults": 1
+                },
+                "statsTable": [
+                    {
+                        "scorer": {
+                            "teamName": "Sunderland",
+                            "urlName": "danny-ballard",
+                            "headshotUrl": "https://fantraximg.com/assets/images/logos/sportsteam/epl/Sunderland.png",
+                            "scorerId": "05nns",
+                            "rank": 1,
+                            "teamLogo": true,
+                            "posIdsNoFlex": [
+                                "703"
+                            ],
+                            "defaultPosId": "703",
+                            "posShortNames": "D",
+                            "team": false,
+                            "icons": [
+                                {
+                                    "tooltip": "Aug 18, 2:08 PM: Ballard scored one goal to go with four...",
+                                    "typeId": "14"
+                                }
+                            ],
+                            "rookie": false,
+                            "minorsEligible": false,
+                            "statusId": "5",
+                            "posIds": [
+                                "703"
+                            ],
+                            "teamId": "110141",
+                            "name": "Danny Ballard",
+                            "teamShortName": "SUN",
+                            "shortName": "D. Ballard"
+                        },
+                        "bidRequired": true,
+                        "cells": [
+                            {
+                                "content": "36.25"
+                            },
+                            {
+                                "content": "36.25"
+                            },
+                            {
+                                "content": "5%"
+                            },
+                            {
+                                "content": "0%"
+                            },
+                            {
+                                "content": "\u003cb\u003e1\u003c/b\u003e GP, \u003cb\u003e1\u003c/b\u003e GS, \u003cb\u003e90\u003c/b\u003e Min, \u003cb\u003e1\u003c/b\u003e G, \u003cb\u003e2\u003c/b\u003e SOT, \u003cb\u003e1\u003c/b\u003e TkW, \u003cb\u003e4\u003c/b\u003e FS, \u003cb\u003e1\u003c/b\u003e CLO, \u003cb\u003e9\u003c/b\u003e CLR, \u003cb\u003e4\u003c/b\u003e BS, \u003cb\u003e6\u003c/b\u003e AER, \u003cb\u003e1\u003c/b\u003e CS"
+                            }
+                        ],
+                        "actions": [
+                            {
+                                "typeId": "5"
+                            },
+                            {
+                                "typeId": "7"
+                            }
+                        ]
+                    }
+                ],
+                "teamId": "3uxxpgpemc719rep",
+                "displayedSortType": "SCORE",
+                "claimsDropsAllowed": true,
+                "commissioner": true,
+                "tableHeader": {
+                    "cells": [
+                        {
+                            "sortDirection": 1,
+                            "sortKey": "SCORE",
+                            "sortType": "SCORE",
+                            "shortName": "FPts",
+                            "key": "fpts"
+                        },
+                        {
+                            "sortDirection": 1,
+                            "sortKey": "FPTS_PER_GAME",
+                            "sortType": "FPTS_PER_GAME",
+                            "shortName": "FP/G",
+                            "key": "fptsPerGame"
+                        },
+                        {
+                            "sortDirection": 1,
+                            "sortKey": "OVERVIEW_PERCENT_OWNED_2",
+                            "sortType": "OVERVIEW_PERCENT_OWNED_2",
+                            "name": "???% of Fantrax leagues that have this player on their roster this week: en_US???",
+                            "shortName": "Ros",
+                            "key": "percentOwned"
+                        },
+                        {
+                            "sortDirection": 1,
+                            "sortKey": "OVERVIEW_PLUS_MINUS_PERCENT_OWNED_2",
+                            "sortType": "OVERVIEW_PLUS_MINUS_PERCENT_OWNED_2",
+                            "name": "Change in percent Rostered from previous week",
+                            "shortName": "+/-",
+                            "key": "percentOwnedDiff"
+                        },
+                        {
+                            "align": "LEFT",
+                            "sortDirection": 1,
+                            "name": "Stats",
+                            "shortName": "Stats",
+                            "key": "stats"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

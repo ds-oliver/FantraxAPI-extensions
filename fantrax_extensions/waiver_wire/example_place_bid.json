@@ -1,0 +1,89 @@
+{
+    "data": {
+        "sDate": 1755577365004,
+        "adrt": 45,
+        "up": "168.2.3"
+    },
+    "roles": [
+        "02"
+    ],
+    "responses": [
+        {
+            "data": {
+                "myTeamIds": [
+                    "3uxxpgpemc719rep"
+                ],
+                "selectedTxType": "CLAIM",
+                "numPendingClaims": 0,
+                "claimTypes": {
+                    "1": "FREE_FOR_ALL",
+                    "2": "BIDDING"
+                },
+                "miscData": {
+                    "allowGroupChanges": true,
+                    "showBidColumn": true,
+                    "showAllTeamsChoice": false,
+                    "claimGroupsEnabled": true,
+                    "allTeamsSelected": false,
+                    "showTeamDropdown": false,
+                    "transactionSalaryBudgetInfo": [
+                        {
+                            "tradeName": "Claim Budget",
+                            "display": "$100.00",
+                            "name": "Claim Budget Remaining",
+                            "tradeable": true,
+                            "value": "100.00",
+                            "key": "claimBudget"
+                        }
+                    ]
+                },
+                "resourceMap": {
+                    "add": {
+                        "name": "Add",
+                        "shortName": "Add"
+                    },
+                    "move": {
+                        "name": "Move",
+                        "shortName": "Mv"
+                    },
+                    "dropMove": {
+                        "name": "Drop/Move",
+                        "shortName": "Drp/Mv"
+                    },
+                    "processDate": {
+                        "name": "Process Date",
+                        "shortName": "Process"
+                    },
+                    "position": {
+                        "name": "Position",
+                        "shortName": "Pos"
+                    },
+                    "priority": {
+                        "name": "Priority",
+                        "shortName": "Pty"
+                    },
+                    "delete": {
+                        "name": "Delete",
+                        "shortName": "Del"
+                    },
+                    "dateSubmitted": {
+                        "name": "Submitted (PDT)",
+                        "shortName": "Submitted (PDT)"
+                    },
+                    "group": {
+                        "name": "Group",
+                        "shortName": "Grp"
+                    },
+                    "status": {
+                        "name": "Status",
+                        "shortName": "Sta"
+                    }
+                },
+                "commissioner": true,
+                "teamIds": [
+                    "3uxxpgpemc719rep"
+                ]
+            }
+        }
+    ]
+}

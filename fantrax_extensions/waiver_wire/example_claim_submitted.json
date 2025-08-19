@@ -1,0 +1,68 @@
+{
+    "data": {
+        "sDate": 1755577374140,
+        "adrt": 45,
+        "up": "168.2.3"
+    },
+    "roles": [
+        "02"
+    ],
+    "responses": [
+        {
+            "data": {
+                "txResponses": [
+                    {
+                        "code": "ACCEPTED_WAITING_FOR_CLAIM_RESOLUTION",
+                        "otherMessages": [],
+                        "genericMessage": "The transaction has been received.",
+                        "transactionId": "maslssyamei1fvew",
+                        "confirm": true,
+                        "detailMessages": [
+                            "Your waiver claim for \u003cb\u003eBallard, Danny\u003c/b\u003e is pending processing. It will be resolved on \u003cb\u003eThu Aug 21, 9:00 AM PDT\u003c/b\u003e.",
+                            "\u003cb\u003eMax Kilman\u003c/b\u003e will be dropped if and when the claim for \u003cb\u003eDanny Ballard\u003c/b\u003e succeeds."
+                        ],
+                        "transactionSet": {
+                            "creatorTeamName": "1 - Yoro wizard, Harry! (hogan_m)",
+                            "dateCreated": 1755577374152,
+                            "statusDisplay": "Pending Processing",
+                            "id": "maslssyamei1fvew",
+                            "resolutionDateOrDateProcessed": 1755792000000,
+                            "transactions": [
+                                {
+                                    "toPositionId": "703",
+                                    "destinationTeamId": "3uxxpgpemc719rep",
+                                    "id": "uj4cnmubmei1fvew",
+                                    "scorerId": "05nns",
+                                    "type": {
+                                        "code": "CLAIM",
+                                        "name": "Claim"
+                                    },
+                                    "toStatusId": "1"
+                                },
+                                {
+                                    "fromStatusId": "1",
+                                    "id": "r8s7pex2mei1fvew",
+                                    "scorerId": "04yey",
+                                    "type": {
+                                        "code": "DROP",
+                                        "name": "Drop"
+                                    },
+                                    "sourceTeamId": "3uxxpgpemc719rep"
+                                }
+                            ],
+                            "typeCode": "CLAIM"
+                        },
+                        "properties": {
+                            "claimRosterActionId": "1",
+                            "claimScorerId": "05nns",
+                            "dropScorerId": "04yey",
+                            "fantasyTeamId": "3uxxpgpemc719rep"
+                        }
+                    }
+                ],
+                "commissioner": true,
+                "enableCopyClaims": true
+            }
+        }
+    ]
+}

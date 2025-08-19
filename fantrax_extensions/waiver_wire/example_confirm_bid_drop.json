@@ -1,0 +1,374 @@
+{
+    "data": {
+        "sDate": 1755577372663,
+        "adrt": 45,
+        "up": "168.2.3"
+    },
+    "roles": [
+        "02"
+    ],
+    "responses": [
+        {
+            "data": {
+                "warningMsg": "Warning: At the time this claim is processed, \u003cB\u003eIF\u003c/B\u003e it will result in exceeding the max players allowed on a team, the claim will be denied.",
+                "confirmResponses": [
+                    {
+                        "defaultClaimRosterActionId": "1",
+                        "dropScorer": {
+                            "teamName": "West Ham United",
+                            "urlName": "max-kilman",
+                            "headshotUrl": "https://fantraximg.com/assets/images/logos/sportsteam/epl/West_Ham_United.png",
+                            "scorerId": "04yey",
+                            "teamLogo": true,
+                            "posIdsNoFlex": [
+                                "703"
+                            ],
+                            "defaultPosId": "703",
+                            "posShortNames": "D",
+                            "team": false,
+                            "rookie": false,
+                            "minorsEligible": false,
+                            "posIds": [
+                                "703"
+                            ],
+                            "teamId": "110175",
+                            "name": "Max Kilman",
+                            "teamShortName": "WHU",
+                            "shortName": "M. Kilman"
+                        },
+                        "defaultPosId": "703",
+                        "positions": [
+                            "703"
+                        ],
+                        "claimEffectiveDateMsg": "\u003cb\u003eClaim\u003c/b\u003e will be effective Gameweek \u003cb\u003e2\u003c/b\u003e (Fri Aug 22 - Thu Aug 28)",
+                        "dropEffectiveDateMsg": "\u003cb\u003eDrop\u003c/b\u003e will be effective Gameweek \u003cb\u003e2\u003c/b\u003e (Fri Aug 22 - Thu Aug 28)",
+                        "fantasyTeamId": "3uxxpgpemc719rep",
+                        "claimPeriod": 2,
+                        "statuses": [
+                            {
+                                "code": "ACTIVE",
+                                "sortOrder": 1,
+                                "name": "Active",
+                                "description": "On this fantasy team\u0027s Active section (starting), thus accumulating stats.",
+                                "id": "1",
+                                "shortName": "Act"
+                            },
+                            {
+                                "code": "RESERVE",
+                                "sortOrder": 2,
+                                "name": "Reserve",
+                                "description": "On this fantasy team\u0027s Reserve section (bench), thus not accumulating stats.",
+                                "id": "2",
+                                "shortName": "Res"
+                            }
+                        ],
+                        "claimScorer": {
+                            "teamName": "Sunderland",
+                            "urlName": "danny-ballard",
+                            "headshotUrl": "https://fantraximg.com/assets/images/logos/sportsteam/epl/Sunderland.png",
+                            "scorerId": "05nns",
+                            "teamLogo": true,
+                            "posIdsNoFlex": [
+                                "703"
+                            ],
+                            "defaultPosId": "703",
+                            "posShortNames": "D",
+                            "team": false,
+                            "icons": [
+                                {
+                                    "tooltip": "Aug 18, 2:08 PM: Ballard scored one goal to go with four...",
+                                    "typeId": "14"
+                                }
+                            ],
+                            "rookie": false,
+                            "minorsEligible": false,
+                            "posIds": [
+                                "703"
+                            ],
+                            "teamId": "110141",
+                            "name": "Danny Ballard",
+                            "teamShortName": "SUN",
+                            "shortName": "D. Ballard"
+                        },
+                        "defaultStatusId": "1",
+                        "bid": 0.0,
+                        "differentPeriods": false,
+                        "claimRosterActionIds": [
+                            "1",
+                            "3"
+                        ],
+                        "dropPeriod": 2
+                    }
+                ],
+                "commissioner": true,
+                "alertTitle": "Submit Claim/Drop"
+            }
+        },
+        {
+            "data": {
+                "fantasySettings": {
+                    "hidePlayerHeadshotsMobile": false,
+                    "teamName": "1 - Yoro wizard, Harry! (hogan_m)",
+                    "aab": true,
+                    "draftStatus": "In Progress",
+                    "enableSportColors": true,
+                    "isMember": true,
+                    "chatEnabled": true,
+                    "wallImageUrl": "https://fantraximg.com/logos/0ps/lgWall_0psdc7c4mdt1l4fr_2048.webp",
+                    "hideLeagueLogo": false,
+                    "leagueName": "Intl. Friendship League",
+                    "hidePlayerHeadshotsDesktop": false,
+                    "generalSportId": "007",
+                    "headToHead": true,
+                    "season": {
+                        "seasonType": {
+                            "code": "REGULAR"
+                        },
+                        "displayNameShort": "2025-26 Reg",
+                        "endDate": 1779681599000,
+                        "displayName": "2025-26",
+                        "id": "925",
+                        "startDate": 1755230400000,
+                        "displayYear": "2025-26"
+                    },
+                    "screenDefaults": {
+                        "LIVE_SCORING": {
+                            "local": {
+                                "mobileMatchupView": true
+                            }
+                        },
+                        "MATCHUP_PREVIEW": {
+                            "local": {
+                                "mobileMatchupView": true
+                            }
+                        }
+                    },
+                    "leagueHomeStandingsPosition": "1",
+                    "contentScaleTypeId": "1",
+                    "multiColumnLeftWidthHome": 50,
+                    "commissioner": true,
+                    "teamLogo": "https://fantraximg.com/logos/oei/tmLogo_oeirdbu3m1a02meg_128.jpg",
+                    "myDefaultTeamId": "3uxxpgpemc719rep",
+                    "myTeamIds": [
+                        "3uxxpgpemc719rep"
+                    ],
+                    "sportId": "009",
+                    "subtitle": "2025-26 EPL",
+                    "treasurerUsed": true
+                },
+                "positionMap": {
+                    "709": {
+                        "id": "709",
+                        "name": "Team",
+                        "shortName": "Tm",
+                        "sortOrder": 110,
+                        "colorKey": "--color-teal"
+                    },
+                    "710": {
+                        "id": "710",
+                        "name": "Midfielder/Forward",
+                        "shortName": "M/F",
+                        "sortOrder": 60,
+                        "colorKey": "--color-primary"
+                    },
+                    "700": {
+                        "id": "700",
+                        "name": "Outfielder",
+                        "shortName": "OF",
+                        "sortOrder": 40,
+                        "colorKey": "--color-purple--softer"
+                    },
+                    "711": {
+                        "id": "711",
+                        "name": "Defender/Midfielder",
+                        "shortName": "D/M",
+                        "sortOrder": 70,
+                        "colorKey": "--color-amber--light"
+                    },
+                    "701": {
+                        "id": "701",
+                        "name": "Forward",
+                        "shortName": "F",
+                        "sortOrder": 30,
+                        "colorKey": "--color-green--softer"
+                    },
+                    "712": {
+                        "id": "712",
+                        "name": "Defender 2",
+                        "shortName": "D2",
+                        "sortOrder": 11,
+                        "colorKey": "PRIMARY"
+                    },
+                    "702": {
+                        "id": "702",
+                        "name": "Midfielder",
+                        "shortName": "M",
+                        "sortOrder": 20,
+                        "colorKey": "--color-primary--softer"
+                    },
+                    "713": {
+                        "id": "713",
+                        "name": "Midfielder 2",
+                        "shortName": "M2",
+                        "sortOrder": 11,
+                        "colorKey": "PRIMARY"
+                    },
+                    "703": {
+                        "id": "703",
+                        "name": "Defender",
+                        "shortName": "D",
+                        "sortOrder": 10,
+                        "colorKey": "--color-amber--softer"
+                    },
+                    "714": {
+                        "id": "714",
+                        "name": "Outfielder 2",
+                        "shortName": "OF2",
+                        "sortOrder": 40,
+                        "colorKey": "PRIMARY"
+                    },
+                    "704": {
+                        "id": "704",
+                        "name": "Goalkeeper",
+                        "shortName": "G",
+                        "sortOrder": 50,
+                        "colorKey": "--color-red--softer"
+                    },
+                    "715": {
+                        "id": "715",
+                        "name": "Defender/Forward",
+                        "shortName": "D/F",
+                        "sortOrder": 70,
+                        "colorKey": "PRIMARY"
+                    },
+                    "707": {
+                        "id": "707",
+                        "name": "Team Outfielder",
+                        "shortName": "TmOF",
+                        "sortOrder": 90,
+                        "colorKey": "--color-purple"
+                    },
+                    "708": {
+                        "id": "708",
+                        "name": "Team Goalkeepers",
+                        "shortName": "TmG",
+                        "sortOrder": 100,
+                        "colorKey": "--color-red"
+                    }
+                },
+                "commissioner": true
+            }
+        },
+        {
+            "data": {
+                "allObjs": {
+                    "1": {
+                        "id": "1",
+                        "code": "ACTIVE",
+                        "name": "Active",
+                        "shortName": "Act",
+                        "description": "On this fantasy team\u0027s Active section (starting), thus accumulating stats.",
+                        "color": "FFFFFF"
+                    },
+                    "2": {
+                        "id": "2",
+                        "code": "RESERVE",
+                        "name": "Reserve",
+                        "shortName": "Res",
+                        "description": "On this fantasy team\u0027s Reserve section (bench), thus not accumulating stats.",
+                        "color": "CFCFCF"
+                    },
+                    "3": {
+                        "id": "3",
+                        "code": "INJURED_RESERVE",
+                        "name": "Inj Res",
+                        "shortName": "IR",
+                        "description": "On this fantasy team\u0027s Injured Reserve section, thus not accumulating stats.",
+                        "color": "E9967A"
+                    },
+                    "4": {
+                        "id": "4",
+                        "code": "FREE_AGENT",
+                        "name": "Free Agent",
+                        "shortName": "FA",
+                        "description": "Free Agent"
+                    },
+                    "5": {
+                        "id": "5",
+                        "code": "WAIVER_WIRE",
+                        "name": "Waiver Wire",
+                        "shortName": "WW",
+                        "description": "On Waivers"
+                    },
+                    "7": {
+                        "id": "7",
+                        "code": "INACTIVE",
+                        "name": "Not On Team",
+                        "shortName": "-",
+                        "description": "Not On Team",
+                        "color": "A1A192"
+                    },
+                    "8": {
+                        "id": "8",
+                        "code": "ON_TEAM",
+                        "name": "On Team",
+                        "shortName": "T",
+                        "description": "On a fantasy team roster"
+                    },
+                    "9": {
+                        "id": "9",
+                        "code": "MINORS",
+                        "name": "Minors",
+                        "shortName": "Min",
+                        "description": "On this fantasy team\u0027s Minor Leagues section, thus not accumulating stats.",
+                        "color": "90EE90"
+                    },
+                    "y": {
+                        "id": "y",
+                        "code": "GRAND_TOTAL"
+                    },
+                    "z": {
+                        "id": "z",
+                        "code": "OUT_OF_LEAGUE",
+                        "name": "Out of League",
+                        "shortName": "N/A",
+                        "description": "Not in this league anymore because of league rules"
+                    }
+                },
+                "lastModified": 1351921046000
+            }
+        },
+        {
+            "data": {
+                "allObjs": {
+                    "1": {
+                        "id": "1",
+                        "code": "DROP",
+                        "shortName": "Drop"
+                    },
+                    "2": {
+                        "id": "2",
+                        "code": "MOVE_TO_ACTIVE",
+                        "shortName": "Activate"
+                    },
+                    "3": {
+                        "id": "3",
+                        "code": "MOVE_TO_RESERVE",
+                        "shortName": "Move to Reserve"
+                    },
+                    "4": {
+                        "id": "4",
+                        "code": "MOVE_TO_INJ_RES",
+                        "shortName": "Move to IR"
+                    },
+                    "5": {
+                        "id": "5",
+                        "code": "MOVE_TO_MINORS",
+                        "shortName": "Move to Minors"
+                    }
+                },
+                "lastModified": 1375718133000
+            }
+        }
+    ]
+}

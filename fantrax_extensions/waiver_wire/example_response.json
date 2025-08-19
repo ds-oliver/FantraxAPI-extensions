@@ -1,0 +1,139 @@
+{
+    "data": {
+        "sDate": 1755569686326,
+        "adrt": 45,
+        "up": "168.2.3"
+    },
+    "roles": [
+        "02"
+    ],
+    "responses": [
+        {
+            "data": {
+                "fantasyResponse": {
+                    "mainMsg": "Your changes will take effect in Gameweek \u003cb\u003e2 (Aug 22, 2025 - Aug 28, 2025)\u003c/b\u003e. Please confirm that the following changes are correct:",
+                    "msgType": "CONFIRM",
+                    "lineupChanges": [
+                        {
+                            "scorerId": "04abb",
+                            "text": "Reserve to Active"
+                        },
+                        {
+                            "scorerId": "04fk6",
+                            "text": "Active to Reserve"
+                        }
+                    ],
+                    "showConfirmWindow": false,
+                    "navItems": [
+                        {
+                            "routerLink": "MAKE_MORE_CHANGES",
+                            "requiresLogin": false,
+                            "icon": "refresh",
+                            "text": "Make More Changes"
+                        },
+                        {
+                            "routerLink": "FINALIZE_CHANGES",
+                            "requiresLogin": false,
+                            "icon": "done",
+                            "text": "Finalize Changes"
+                        }
+                    ],
+                    "scorerMap": {
+                        "04abb": {
+                            "teamName": "Manchester City",
+                            "urlName": "phil-foden",
+                            "headshotUrl": "https://fantraximg.com/assets/images/logos/sportsteam/epl/Manchester_City.png",
+                            "scorerId": "04abb",
+                            "teamLogo": true,
+                            "posIdsNoFlex": [
+                                "702"
+                            ],
+                            "defaultPosId": "702",
+                            "posShortNames": "M",
+                            "team": false,
+                            "icons": [
+                                {
+                                    "tooltip": "Ankle - Late fitness test (Game-time decision)",
+                                    "typeId": "1"
+                                },
+                                {
+                                    "tooltip": "Aug 16, 8:33 AM: Foden (ankle) is out for Saturday\u0027s...",
+                                    "typeId": "8"
+                                }
+                            ],
+                            "rookie": false,
+                            "minorsEligible": false,
+                            "posIds": [
+                                "702"
+                            ],
+                            "teamId": "110080",
+                            "name": "Phil Foden",
+                            "teamShortName": "MCI",
+                            "shortName": "P. Foden"
+                        },
+                        "04fk6": {
+                            "teamName": "Manchester City",
+                            "urlName": "bernardo-mota-veiga-de-carvalho-e-silva",
+                            "headshotUrl": "https://fantraximg.com/assets/images/logos/sportsteam/epl/Manchester_City.png",
+                            "scorerId": "04fk6",
+                            "teamLogo": true,
+                            "posIdsNoFlex": [
+                                "702"
+                            ],
+                            "defaultPosId": "702",
+                            "posShortNames": "M",
+                            "team": false,
+                            "rookie": false,
+                            "minorsEligible": false,
+                            "posIds": [
+                                "702"
+                            ],
+                            "teamId": "110080",
+                            "name": "Bernardo Silva",
+                            "teamShortName": "MCI",
+                            "shortName": "Bernardo Silva"
+                        }
+                    },
+                    "showApplyToFuturePeriods": true,
+                    "removeSubmitButton": false,
+                    "applyToFuturePeriods": true,
+                    "resourceMap": {
+                        "periodPlural": "gameweeks",
+                        "periodSingular": "period",
+                        "applyToFuturePeriods": "Apply to future gameweeks",
+                        "periodPluralUppercase": "Periods"
+                    },
+                    "helpItem": {
+                        "text": "Uncheck this option \u003cb\u003eonly\u003c/b\u003e if you want your change to apply to the current period you are viewing, while all future gameweeks will remain as they were. If you leave the option checked, your changes will apply to all gameweeks in the future, including the current one you are viewing.\u003cbr/\u003e\u003cbr/\u003eIf the option is disabled, it means that your change will cause a future period to become illegal, so you are only allowed to change this period. \u003ci\u003eIf you are not sure what to do, leave the option checked.\u003c/i\u003e",
+                        "title": "Apply to Future Periods"
+                    }
+                },
+                "textArray": {
+                    "data": [],
+                    "model": {
+                        "rosterLimitPeriodDisplay": "(Aug 22, 2025 - Aug 28, 2025)",
+                        "rosterAdjustmentInfo": {
+                            "lineupChanges": [
+                                "Reserve to Active",
+                                "Active to Reserve"
+                            ],
+                            "totalFee": 0.0,
+                            "totalClaimFee": 0.0,
+                            "totalLineupChangeFee": 0.0,
+                            "rosterLimitPeriod": 2,
+                            "totalDropFee": 0.0
+                        },
+                        "firstIllegalRosterPeriodDisplay": "(Aug 15, 2025 - Aug 21, 2025)",
+                        "firstIllegalRosterPeriod": 0,
+                        "numIllegalRosterMsgs": 0,
+                        "playerPickDeadlinePassed": true,
+                        "illegalRosterMsgs": [],
+                        "illegalBefore": false,
+                        "changeAllowed": true
+                    }
+                },
+                "commissioner": true
+            }
+        }
+    ]
+}
